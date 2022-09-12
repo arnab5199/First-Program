@@ -1,0 +1,21 @@
+Git Version Check: git --version
+
+Git Initialization: git init
+
+Git File Add: git add helloWorld.cpp
+
+Last Update: git commit -m "hello uploded"
+
+Connect Account:
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+Set Branch: git branch -M main
+
+Globalay Connect: git remote add origin https://github.com/userName/Repsitory_Name.git
+
+Uploded: git push -u origin main
+
+Then Aunthticate & Complete.
+
+When All Uploded: git add .
